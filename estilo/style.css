@@ -43,22 +43,27 @@
     border-radius: 8px;
     display: block;
 }
-.card__conteudo {
-    padding: 24px 12px;
-}
+
 .card__conteudo h3 {
     background-color: var(--color-yellow);
     font-weight: var(--font-weight-medium);
     border-radius: 5px;
-    padding: 10px;
-    margin: 10px;
+    
 }
 .data {
+    font-size: 12px;
     color: var(--color-gray-950);
 }
 .card__conteudo h1 {
+    font-size: 22px;
+    line-height: 1.3em;
     font-weight: var(--font-weight-extrabold);
+}
+.card__textos h1:hover {
+    color: var(--color-yellow);
 }
 .card__conteudo p {
     color: var(--color-gray-500);
+    font-size: 15px;
+    line-height: 1.3em;
 }
