@@ -49,6 +49,9 @@
 .card__conteudo h3 {
     background-color: var(--color-yellow);
     font-weight: var(--font-weight-medium);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
 }
 .data {
     color: var(--color-gray-950);
