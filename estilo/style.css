@@ -43,7 +43,7 @@
 }
 .card__image img {
     width: 100%;
-    border-radius: 8px;
+    border-radius: 12px;
     display: block;
 }
 .card__conteudo {
@@ -76,4 +76,7 @@
     color: var(--color-gray-500);
     font-size: 15px;
     line-height: 1.3em;
+}
+.card__autor {
+    display: inline-block;
 }
