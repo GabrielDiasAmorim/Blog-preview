@@ -33,7 +33,7 @@
 }
 .card__filho {
     background-color: var(--color-white);
-    min-width: 375px;
+    max-width: 375px;
     border-radius: 20px;
     box-shadow: 8px 8px 0px var(--color-gray-950);
     padding: 24px;
