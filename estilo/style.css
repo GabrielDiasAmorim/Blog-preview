@@ -40,3 +40,19 @@
     width: 100%;
     border-radius: 8px;
 }
+.card__conteudo {
+
+}
+.card__conteudo h3 {
+    background-color: var(--color-yellow);
+    font-weight: var(--font-weight-medium);
+}
+.data {
+    color: var(--color-gray-950);
+}
+.card__conteudo h1 {
+    font-weight: var(--font-weight-extrabold);
+}
+.card__conteudo p {
+    color: var(--color-gray-500);
+}
